@@ -8,3 +8,5 @@
 - /outta/:profanity/[:subject]
 - /all/get/[:subject]
 - /all/gets/[:subject]
+- /more_you
+- /rope
